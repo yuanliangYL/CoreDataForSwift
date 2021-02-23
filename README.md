@@ -2,8 +2,10 @@
 Swift5版本coreData
 
 
-### > 初识CoreData
-### > 使用NSManagedObject子类
-### > 自定义coreDataStack 
+##### 1. 初识CoreData
+
+##### 2. 使用NSManagedObject子类
+
+##### 3. 自定义coreDataStack 
 
 
