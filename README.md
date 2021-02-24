@@ -8,4 +8,5 @@ Swift5版本coreData
 
 ##### 3. 自定义coreDataStack 
 
+##### 4.NSFetchRequest：深入理解查询
 
