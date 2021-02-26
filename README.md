@@ -10,3 +10,4 @@ Swift5版本coreData
 
 ##### 4.NSFetchRequest：深入理解查询
 
+##### 5.NSFetchedResultsController的理解与使用
